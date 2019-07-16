@@ -1,4 +1,4 @@
-require_relative '../lib/01_temperature'
+require_relative '../lib/01_temperatur'
 
 describe "temperature conversion functions" do
 
